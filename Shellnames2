@@ -11,6 +11,9 @@
 /text.php
 /classwithtostring.php
 /wp-csuu.php
+/nonhostilely.php
+/function.php
+/install.php
 /wp-content/uploads/wpr-addons/forms/classwithtostring.php
 /wp-22.php
 /User-new.Php
@@ -134,6 +137,8 @@
 /core-admin.php
 /my1.php
 /nf_tracking.php
+/chosen/function.php
+/wp-content/plugins/Cache/dropdown.php
 /vz.php
 /.well-known/acme-challenge/license.php
 /wp-content/vz_f1.php
