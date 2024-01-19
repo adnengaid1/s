@@ -1,0 +1,11 @@
+/network.php
+/wp-admin/maint/network.php
+/wp-content/uploads/network.php
+/wp-admin/css/network.php
+/wp-includes/Text/network.php
+/.well-known/acme-challenge/network.php
+/wp-admin/network/network.php
+/wp-content/languages/network.php
+/wp-includes/rest-api/network.php
+/wp-includes/sitemaps/network.php
+/wp-includes/certificates/network.php
