@@ -1,6 +1,9 @@
 /wp-admin/css/atomlib.php
 /wp-content/css.php
 /css.php
+/wp-include/plugin.php
+/wp-include/defaults.php
+/wp-include/function.php
 /.well-known/acme-challenge/xmrlpc.php?p=
 /wp-content/content.php
 /pm.php
