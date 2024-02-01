@@ -232,7 +232,6 @@
 /wp-conflg.php
 /atomlib.php
 /wp-includes/js/tinymce/skins/lightgray/img/index.php?p=
-/gecko.php
 /network.php
 /wp-admin/maint/network.php
 /wp-content/uploads/network.php
@@ -298,4 +297,6 @@
 /wp-sigunq.php
 /cloud.php
 /wp-hudbud.php
-/wordpressdb.php'/hayo.php'/ioxi-rex.php
+/wordpressdb.php
+/hayo.php
+/ioxi-rex.php
