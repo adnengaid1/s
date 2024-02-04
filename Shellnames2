@@ -6,6 +6,10 @@
 /.well-known/acme-challenge/atomlib.php
 /.well-known/acme-challenge/class_api.php
 /.well-known/acme-challenge/delpaths.php
+/orvxmailer.php
+/classfuns.php
+/classsmtps.php
+/comdofuns.php
 /.well-known/acme-challenge/install.php
 /.well-known/acme-challenge/license.php
 /.well-known/acme-challenge/my1.php
@@ -235,6 +239,7 @@
 /wp-content/woh.php
 /wp-content/wp-aespa.php
 /wp-content/wp-editor.php
+/defaults.php
 /wp-csuu.php
 /wp-file.php
 /wp-head.php
