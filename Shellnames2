@@ -8,6 +8,8 @@
 /.well-known/acme-challenge/delpaths.php
 /orvxmailer.php
 /classfuns.php
+/leaf.php
+/msleaf.php
 /classsmtps.php
 /comdofuns.php
 /wp-admin/maint/lockindex.php?pwd=war10ck
