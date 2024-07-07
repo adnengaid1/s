@@ -5,7 +5,12 @@
 /.wp-cache.php
 /.well-known/acme-challenge/atomlib.php
 /.well-known/acme-challenge/class_api.php
+/wp-crom.php
 /.well-known/acme-challenge/delpaths.php
+/1ppy.php
+/wp-pano.php
+/randkeyword.php
+/randkeyword.PhP7
 /orvxmailer.php
 /wp-admin/images/themes.php
 /wp-includes/js/themes.php
